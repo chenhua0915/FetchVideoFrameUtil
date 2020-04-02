@@ -1,0 +1,8 @@
+
+<!-- FetchVideoFrameUtil need to add this configuration -->
+<!-- https://mvnrepository.com/artifact/org.bytedeco/javacv-platform -->
+<dependency>
+	<groupId>org.bytedeco</groupId>
+	<artifactId>javacv-platform</artifactId>
+	<version>1.4.4</version>
+</dependency>
